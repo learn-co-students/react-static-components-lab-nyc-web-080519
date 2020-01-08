@@ -6,12 +6,12 @@ export class EinsteinQuoteComponent extends Component {
 			<div className="bar" id="einstein">
 				<i>
 					<p>
-						&quot;Life is like riding a bicycle. To keep your balance you must
-						keep moving&quot;
+						"Life is like riding a bicycle. To keep your balance you must
+						keep moving"
 					</p>
 				</i>
 				<br />
-				&#9;-Einstein
+				-Einstein
 			</div>
 		);
 	}
